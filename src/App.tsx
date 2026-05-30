@@ -1,16 +1,11 @@
-import './App.css'
+import './App.css';
 
 function App() {
-
   return (
-    <>
-      <section id="center">
-        <div className="hero">
-          <h1>AulaConnect</h1>
-        </div>
-      </section>
-    </>
-  )
+    <div className="App">
+      <h1>Hola Mariana 🚀</h1>
+    </div>
+  );
 }
 
-export default App
+export default App;
